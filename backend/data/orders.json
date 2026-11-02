@@ -1,7 +1,7 @@
 [
   {
     "id": "ORD-1001",
-    "customerName": "ABC Veterinary Clinic",
+    "customerName": "",
     "orderDate": "2026-10-15",
     "status": "Pending",
     "items": [
